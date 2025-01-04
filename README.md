@@ -17,9 +17,9 @@ Setting up a Discord Bot has never been easier. There is no need for any fancy c
 
 ### Command List
 Jam only requires a few command's to function properly, however more may be added in the future.
-| Command | Description |
-| --- | --- |
-| /join | Jam will join the VC that you are in. |
-| /play [source] [url] | Jam will play Music from a YouTube, Spotify, Soundcloud, Deezer or Apple Music URL. |
-| /stop | Jam will stop the current Music Track. |
-| /leave | Jam will leave the VC that it is in. |
+| Command | Description | Image
+| --- | --- | --- |
+| /join | Jam will join the VC that you are in. | ![image](https://github.com/user-attachments/assets/764102c6-a20a-44da-93ff-3de5324d7d13) |
+| /play [source] [url] | Jam will play Music from a YouTube, Spotify, Soundcloud, Deezer or Apple Music URL. | ![image](https://github.com/user-attachments/assets/03d13d42-ea4a-4670-871d-dd0f82af580d) |
+| /stop | Jam will stop the current Music Track. | ![image](https://github.com/user-attachments/assets/e3690d3c-2f09-41b2-abe5-f9469c26b1c7) |
+| /leave | Jam will leave the VC that it is in. | ![image](https://github.com/user-attachments/assets/64d2d9e7-d188-4268-ad3a-dc5f69974093) |
