@@ -20,6 +20,6 @@ Jam only requires a few command's to function properly, however more may be adde
 | Command | Description |
 | --- | --- |
 | /join | Jam will join the VC that you are in. |
-| /play [source] [url] | Jam will play Music from a YouTube or Spotify URL. |
+| /play [source] [url] | Jam will play Music from a YouTube, Spotify, Soundcloud, Deezer or Apple Music URL. |
 | /stop | Jam will stop the current Music Track. |
 | /leave | Jam will leave the VC that it is in. |
