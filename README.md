@@ -20,6 +20,7 @@ Jam only requires a few command's to function properly, however more may be adde
 | Command | Description | Image
 | --- | --- | --- |
 | /join | Jam will join the VC that you are in. | ![image](https://github.com/user-attachments/assets/764102c6-a20a-44da-93ff-3de5324d7d13) |
-| /play [source] [url] | Jam will play Music from a YouTube, Spotify, Soundcloud, Deezer or Apple Music URL. | ![image](https://github.com/user-attachments/assets/03d13d42-ea4a-4670-871d-dd0f82af580d) |
+| /play [source] [url] | Jam will play Music from a YouTube, Spotify, Soundcloud, Deezer or Apple Music URL. If a song is already playing, the new song will automatically be added to the queue. | ![image](https://github.com/user-attachments/assets/03d13d42-ea4a-4670-871d-dd0f82af580d) ![image](https://github.com/user-attachments/assets/ab6a7562-567c-4d35-9bbe-e65a139edb0d) |
+| /clearqueue | Jam will clear the music queue completely. | ![image](https://github.com/user-attachments/assets/d8fe4e4f-9051-45db-a54d-269e38a76d41) |
 | /stop | Jam will stop the current Music Track. | ![image](https://github.com/user-attachments/assets/e3690d3c-2f09-41b2-abe5-f9469c26b1c7) |
 | /leave | Jam will leave the VC that it is in. | ![image](https://github.com/user-attachments/assets/64d2d9e7-d188-4268-ad3a-dc5f69974093) |
